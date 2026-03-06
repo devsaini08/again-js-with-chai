@@ -53,3 +53,54 @@ let convertIntoString = String(demodata2)
 // null => string
 // undefined = string
 // boolean => string 
+
+
+// *********************oprator***********************************
+
+// console.log(2 + 2);
+// console.log(2 - 2);
+// console.log(2 * 3);
+// console.log(2 ** 3);
+// console.log(2 % 3);
+// console.log(2 / 3);
+
+let num = 45
+let num2 = 58
+
+num++
+num2--
+// console.log(num);
+// console.log(num2);
+
+// console.log("2" + 2);
+// console.log("2" + "2");
+// console.log(2 + "2" + "2");
+// console.log(2 + 2 + "2");
+// console.log("2" + 2 + 2);
+// console.log(2 * 8 + "2");
+// console.log("2" + 8 * "2");
+
+
+let str = "dev"
+let str2 = " saini"
+// console.log(str + str2);
+// console.log("dev" + " saini");
+
+
+// console.log(+true);
+// console.log(+"");
+
+let numm1, numm2, numm3
+numm1 = numm2 = numm3 = 3 + 3
+// console.log(numm3);
+
+
+
+
+
+
+
+
+
+
+
