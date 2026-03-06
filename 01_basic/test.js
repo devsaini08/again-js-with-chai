@@ -14,8 +14,15 @@ accNumber = 34321;
 
 
 
+console.log(accNumber, firstName, pasWoord, wifeName);
 
 console.table([accNumber, firstName, pasWoord, wifeName]);
+console.log(
+    "typeof AccNo.", typeof accNumber,
+    "typeof pasword", typeof pasWoord
+
+);
+
 
 
 
