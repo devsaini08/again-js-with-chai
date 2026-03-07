@@ -68,7 +68,7 @@ let num = 45
 let num2 = 58
 
 num++
-num2--
+--num2
 // console.log(num);
 // console.log(num2);
 
